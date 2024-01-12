@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/UI/BP_UI.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/Blueprints/System/GM_SuperheroFlight.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/Blueprints/Components/BP_SuperheroFlightComponent.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/Blueprints/Characters/BP_Player_UE5.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/Checkpoint.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/Maps/TutorialMap.umap",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/Endpoint.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/SuperheroFlightAnimations/Content/SuperheroFlight/Blueprints/Characters/BP_Player_UE4.uasset"
+			]
+		}
+	]
+}
