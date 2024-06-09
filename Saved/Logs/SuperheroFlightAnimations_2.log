@@ -1126,3 +1126,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.09-09.10.28:244][908]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
 [2024.06.09-09.10.28:244][908]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
 [2024.06.09-09.10.48:870][  9]LogDerivedDataCache: C:/Users/nitro 5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.236 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2042 files in 3312 folders with total size 35 MiB.
+[2024.06.09-09.12.19:953][282]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.06.09-09.12.19:954][282]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
