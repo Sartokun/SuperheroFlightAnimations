@@ -1128,3 +1128,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.09-09.10.48:870][  9]LogDerivedDataCache: C:/Users/nitro 5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.236 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2042 files in 3312 folders with total size 35 MiB.
 [2024.06.09-09.12.19:953][282]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
 [2024.06.09-09.12.19:954][282]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.06.09-09.13.56:560][661]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.06.09-09.13.56:561][661]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.06.09-09.20.46:329][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.09-09.20.46:580][211]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2024.06.09-09.20.46:594][211]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008482 seconds
+[2024.06.09-09.20.46:642][211]LogSavePackage: Moving output files for package: /Game/SuperheroFlight/Maps/TutorialMap
+[2024.06.09-09.20.46:643][211]LogSavePackage: Moving '../../../../../../Users/nitro 5/Desktop/study/Bungfai/POC_Project/SuperheroFlightAnimations/Saved/TutorialMap0E313D224A94861666FDC3BB7052DCA5.tmp' to '../../../../../../Users/nitro 5/Desktop/study/Bungfai/POC_Project/SuperheroFlightAnimations/Content/SuperheroFlight/Maps/TutorialMap.umap'
+[2024.06.09-09.20.46:659][211]LogFileHelpers: All files are already saved.
+[2024.06.09-09.20.46:660][211]LogFileHelpers: Saving map 'TutorialMap' took 0.186
+[2024.06.09-09.20.46:675][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 345 ms
+[2024.06.09-09.20.46:677][211]AssetCheck: New page: Asset Save: TutorialMap
+[2024.06.09-09.20.46:677][211]LogContentValidation: Display: Validating /Script/Engine.World /Game/SuperheroFlight/Maps/TutorialMap.TutorialMap
+[2024.06.09-09.20.47:337][245]LogEditorViewport: Clicking Background
